@@ -120,3 +120,4 @@ If you have any questions or feedback regarding kube-prometheus, join the [kube-
 ## License
 
 Apache License 2.0, see [LICENSE](https://github.com/prometheus-operator/kube-prometheus/blob/main/LICENSE).
+"# kube-prometheus" 
